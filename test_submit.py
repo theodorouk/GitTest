@@ -37,7 +37,7 @@ class TestOne(BaseClass):
         submitPage.getBirth().send_keys(getData["Birth"])
         submitPage.getSubmit().click()
         assert("Success" in submitPage.getSuccessMessage().text)
-
+        print("OK")
         self.driver.refresh()
 
 
