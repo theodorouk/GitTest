@@ -1,0 +1,332 @@
+2023-01-17 19:24:02,811 : INFO : testValid : SOFIA KON.
+2023-01-17 19:40:34,762 : INFO : testValid : SOFIA KON.
+2023-01-17 19:40:35,530 : INFO : testValid : SOFIA KON.
+2023-01-17 19:40:35,530 : INFO : testValid : SOFIA KON.
+2023-01-17 19:42:25,355 : INFO : testValid : SOFIA KON.
+2023-01-17 19:42:26,103 : INFO : testValid : SOFIA KON.
+2023-01-17 19:42:26,103 : INFO : testValid : SOFIA KON.
+2023-01-17 19:45:20,193 : INFO : testValid : CHRIS TH.
+2023-01-17 19:45:20,925 : INFO : testValid : SOFIA KON.
+2023-01-17 19:45:20,925 : INFO : testValid : SOFIA KON.
+2023-01-17 19:46:48,697 : INFO : testValid : CHRIS TH.
+2023-01-17 19:46:49,348 : INFO : testValid : SOFIA KON.
+2023-01-17 19:46:49,348 : INFO : testValid : SOFIA KON.
+2023-01-17 19:53:00,411 : INFO : testValid : CHRIS TH.
+2023-01-17 19:53:01,074 : INFO : testValid : SOFIA KON.
+2023-01-17 19:53:01,074 : INFO : testValid : SOFIA KON.
+2023-01-17 19:57:10,573 : INFO : testValid : CHRIS TH.
+2023-01-17 19:57:11,376 : INFO : testValid : SOFIA KON.
+2023-01-17 19:57:11,376 : INFO : testValid : SOFIA KON.
+2023-01-17 20:01:57,891 : INFO : testValid : CHRIS TH.
+2023-01-17 20:01:58,613 : INFO : testValid : SOFIA KON.
+2023-01-17 20:01:58,613 : INFO : testValid : SOFIA KON.
+2023-01-17 20:02:40,216 : INFO : testValid : CHRIS TH.
+2023-01-17 20:02:40,911 : INFO : testValid : SOFIA KON.
+2023-01-17 20:02:40,911 : INFO : testValid : SOFIA KON.
+2023-01-17 20:04:46,084 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-17 20:04:46,761 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-17 20:04:46,761 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-17 20:07:21,906 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-17 20:07:22,542 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-17 20:07:22,542 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-17 20:17:02,048 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-17 20:17:03,066 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-17 20:17:03,066 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-17 20:19:50,871 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-17 20:19:51,580 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-17 20:19:51,580 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-17 20:19:52,653 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': None, 'Gender': None, 'Status': None, 'Birth': None}
+2023-01-17 20:19:52,653 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': None, 'Gender': None, 'Status': None, 'Birth': None}
+2023-01-17 20:19:52,653 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': None, 'Gender': None, 'Status': None, 'Birth': None}
+2023-01-17 20:30:16,930 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-17 20:30:17,667 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-17 20:30:17,667 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-17 20:30:18,702 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': None, 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-17 20:30:18,702 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': None, 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-17 20:30:18,702 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': None, 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-17 20:34:07,021 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-17 20:34:07,735 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-17 20:34:07,735 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-17 20:34:08,741 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': None, 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-17 20:34:08,741 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': None, 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-17 20:34:08,741 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': None, 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-17 20:34:59,178 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-17 20:35:00,863 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-17 20:35:00,863 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-17 20:35:02,837 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': None, 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-17 20:35:02,837 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': None, 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-17 20:35:02,837 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': None, 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-17 20:36:32,344 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-17 20:36:34,059 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-17 20:36:34,059 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-17 20:36:36,101 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-17 20:36:36,101 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-17 20:36:36,101 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-17 20:40:49,752 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-17 20:40:51,408 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-17 20:40:51,408 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-17 20:40:53,376 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-17 20:40:53,376 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-17 20:40:53,376 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-17 20:51:48,304 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-17 20:51:49,011 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-17 20:51:49,011 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-17 20:51:50,067 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-17 20:51:50,067 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-17 20:51:50,067 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-17 20:54:06,496 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-17 20:54:07,268 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-17 20:54:07,268 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-17 20:54:08,278 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-17 20:54:08,278 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-17 20:54:08,278 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-18 13:05:53,454 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-18 13:05:54,128 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-18 13:05:54,128 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-18 13:05:54,918 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-18 13:05:54,918 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-18 13:05:54,918 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-18 14:38:19,438 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-18 14:38:20,149 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-18 14:38:20,149 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-18 14:38:21,218 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-18 14:38:21,218 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-18 14:38:21,218 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-18 14:39:55,460 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-18 14:39:56,252 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-18 14:39:56,252 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-18 14:39:57,361 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-18 14:39:57,361 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-18 14:39:57,361 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-18 14:40:48,893 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-18 14:40:49,317 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-18 14:40:49,317 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-18 14:40:49,660 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-18 14:40:49,660 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-18 14:40:49,660 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-18 14:42:15,788 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-18 14:42:16,198 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-18 14:42:16,198 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-18 14:42:16,549 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-18 14:42:16,549 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-18 14:42:16,549 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-18 16:49:34,073 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-18 16:49:34,828 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-18 16:49:34,828 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-18 16:49:35,597 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-18 16:49:35,597 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-18 16:49:35,597 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-18 16:50:16,163 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-18 16:50:16,858 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-18 16:50:16,858 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-18 16:50:18,042 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-18 16:50:18,042 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-18 16:50:18,042 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-18 16:51:25,060 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-18 16:51:25,764 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-18 16:51:25,764 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-18 16:51:26,812 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-18 16:51:26,812 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-18 16:51:26,812 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-18 16:54:24,228 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-18 16:54:24,899 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-18 16:54:24,899 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-18 16:54:25,994 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-18 16:54:25,994 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-18 16:54:25,994 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-18 16:57:25,387 : INFO : testValid : [{'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}, {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}, {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}]
+2023-01-18 16:57:25,408 : INFO : testValid : [{'Name': 'JOHN DOE', 'Email': None, 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}]
+2023-01-18 16:57:25,408 : INFO : testValid : [{'Name': 'JOHN DOE', 'Email': None, 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}]
+2023-01-18 16:58:58,828 : INFO : testValid : [{'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}, {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}, {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}]
+2023-01-18 16:58:58,848 : INFO : testValid : [{'Name': 'JOHN DOE', 'Email': None, 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}]
+2023-01-18 16:58:58,848 : INFO : testValid : [{'Name': 'JOHN DOE', 'Email': None, 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}]
+2023-01-19 11:50:50,735 : INFO : testValid : <bound method getData of <test_submit.TestOne object at 0x000001569D815990>>
+2023-01-19 11:50:50,761 : INFO : testValid : <bound method getData of <test_submit.TestOne object at 0x000001569D815AE0>>
+2023-01-19 11:50:50,761 : INFO : testValid : <bound method getData of <test_submit.TestOne object at 0x000001569D815AE0>>
+2023-01-19 11:50:50,779 : INFO : testValid : <bound method getData of <test_submit.TestOne object at 0x000001569D815B40>>
+2023-01-19 11:50:50,779 : INFO : testValid : <bound method getData of <test_submit.TestOne object at 0x000001569D815B40>>
+2023-01-19 11:50:50,779 : INFO : testValid : <bound method getData of <test_submit.TestOne object at 0x000001569D815B40>>
+2023-01-19 16:24:57,860 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-19 16:24:58,604 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-19 16:24:58,604 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-19 16:24:59,355 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-19 16:24:59,355 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-19 16:24:59,355 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-19 16:59:56,306 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-19 16:59:57,054 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-19 16:59:57,054 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-19 16:59:58,147 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-19 16:59:58,147 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-19 16:59:58,147 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-20 10:13:56,090 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-20 10:13:57,986 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-20 10:13:57,986 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-20 10:13:58,795 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-20 10:13:58,795 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-20 10:13:58,795 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-20 10:15:04,394 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-20 10:15:05,552 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-20 10:15:05,552 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-20 10:15:06,315 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': None}
+2023-01-20 10:15:06,315 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': None}
+2023-01-20 10:15:06,315 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': None}
+2023-01-20 10:23:01,273 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-20 10:23:02,076 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-20 10:23:02,076 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-20 10:23:02,884 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': None}
+2023-01-20 10:23:02,884 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': None}
+2023-01-20 10:23:02,884 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': None}
+2023-01-20 10:26:56,505 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-20 10:26:56,830 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-20 10:26:56,830 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-20 10:26:57,072 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-20 10:26:57,072 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-20 10:26:57,072 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-20 10:27:43,513 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-20 10:27:44,299 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-20 10:27:44,299 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-20 10:27:45,107 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-20 10:27:45,107 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-20 10:27:45,107 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-20 10:28:16,371 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-20 10:28:33,827 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-20 10:28:33,827 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-20 10:28:39,122 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-20 10:28:39,122 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-20 10:28:39,122 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-20 10:59:45,249 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-20 10:59:46,546 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-20 10:59:46,546 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-20 10:59:47,578 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-20 10:59:47,578 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-20 10:59:47,578 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-20 13:54:54,392 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-20 13:54:55,192 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-20 13:54:55,192 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-20 13:54:55,972 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-20 13:54:55,972 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-20 13:54:55,972 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-20 13:54:56,749 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-20 13:54:56,749 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-20 13:54:56,749 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-20 13:54:56,749 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-20 13:57:45,340 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-20 13:57:46,559 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-20 13:57:46,559 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-20 13:57:47,360 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-20 13:57:47,360 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-20 13:57:47,360 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-20 13:57:48,144 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-20 13:57:48,144 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-20 13:57:48,144 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-20 13:57:48,144 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-20 14:09:44,733 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-20 14:09:46,015 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-20 14:09:46,015 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-20 14:09:46,883 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-20 14:09:46,883 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-20 14:09:46,883 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-20 14:09:47,796 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-20 14:09:47,796 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-20 14:09:47,796 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-20 14:09:47,796 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-20 14:14:17,297 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-20 14:14:18,011 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-20 14:14:18,011 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-20 14:14:18,814 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-20 14:14:18,814 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-20 14:14:18,814 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-20 14:14:19,615 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-20 14:14:19,615 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-20 14:14:19,615 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-20 14:14:19,615 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-20 14:16:21,778 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-20 14:16:22,995 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-20 14:16:22,995 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-20 14:16:23,769 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-20 14:16:23,769 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-20 14:16:23,769 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-20 14:16:24,560 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-20 14:16:24,560 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-20 14:16:24,560 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-20 14:16:24,560 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-20 14:20:45,569 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-20 14:20:46,797 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-20 14:20:46,797 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-20 14:20:47,557 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-20 14:20:47,557 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-20 14:20:47,557 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-20 14:20:48,405 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-20 14:20:48,405 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-20 14:20:48,405 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-20 14:20:48,405 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-20 14:27:21,642 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-20 14:27:22,773 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-20 14:27:22,773 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-20 14:27:23,554 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-20 14:27:23,554 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-20 14:27:23,554 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-20 14:27:24,335 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-20 14:27:24,335 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-20 14:27:24,335 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-20 14:27:24,335 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-20 15:07:23,523 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-20 15:07:24,127 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-20 15:07:24,127 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-20 15:07:24,938 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-20 15:07:24,938 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-20 15:07:24,938 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-20 15:07:25,548 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-20 15:07:25,548 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-20 15:07:25,548 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-20 15:07:25,548 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-21 19:22:50,322 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-21 19:22:50,817 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-21 19:22:50,817 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-21 19:22:51,245 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-21 19:22:51,245 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-21 19:22:51,245 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-21 19:22:51,773 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-21 19:22:51,773 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-21 19:22:51,773 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-21 19:22:51,773 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-21 19:24:54,652 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-21 19:24:55,137 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-21 19:24:55,137 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-21 19:24:55,579 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-21 19:24:55,579 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-21 19:24:55,579 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-21 19:24:56,059 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-21 19:24:56,059 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-21 19:24:56,059 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-21 19:24:56,059 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-21 19:26:37,496 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-21 19:26:38,162 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-21 19:26:38,162 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-21 19:26:39,188 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-21 19:26:39,188 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-21 19:26:39,188 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-21 19:26:39,895 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-21 19:26:39,895 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-21 19:26:39,895 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-21 19:26:39,895 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-21 19:27:59,981 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-21 19:28:00,770 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-21 19:28:00,770 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-21 19:28:01,919 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-21 19:28:01,919 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-21 19:28:01,919 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-21 19:28:02,816 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-21 19:28:02,816 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-21 19:28:02,816 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-21 19:28:02,816 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-21 19:49:42,273 : INFO : testValid : {'Name': 'CHRIS TH.', 'Email': 'kris.th@gmail.com', 'Password': 'kris123', 'Icecreams': 'YES', 'Gender': 'Male', 'Status': 'STUDENT', 'Birth': '05/20/1986'}
+2023-01-21 19:49:43,855 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-21 19:49:43,855 : INFO : testValid : {'Name': 'SOFIA KON.', 'Email': 'sofiakon@hotmail.com', 'Password': 'sofia456', 'Icecreams': 'NO', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '08/19/1976'}
+2023-01-21 19:49:44,575 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-21 19:49:44,575 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-21 19:49:44,575 : INFO : testValid : {'Name': 'PETER BRAHMS', 'Email': 'pbrams@yahoo.co.uk', 'Password': 'peter789', 'Icecreams': 'NO', 'Gender': 'Male', 'Status': 'EMPLOYED', 'Birth': ' '}
+2023-01-21 19:49:45,453 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-21 19:49:45,453 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-21 19:49:45,453 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
+2023-01-21 19:49:45,453 : INFO : testValid : {'Name': 'JOHN DOE', 'Email': '', 'Password': 'jdoe012', 'Icecreams': 'YES', 'Gender': 'Female', 'Status': 'EMPLOYED', 'Birth': '03/25/1995'}
