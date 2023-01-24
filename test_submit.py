@@ -17,7 +17,7 @@ class TestOne(BaseClass):
     @pytest.fixture(params=Data.getTestData("VALID")+Data.getTestData("NOEMAIL"))
     def getData(self, request):
         return request.param
-    #@pytest.mark.parametrize("getData",Data.getTestData("VALID")+Data.getTestData("NOEMAIL"),ids=["testValid1","testValid2","testValid3"])
+    #@pytest.mark.parametrize("getData",Data.getTestData("VALID"),ids=["testValid1","testValid2"])
     def testValid(self,getData):
         log = self.getlogger()
         log.info(getData)
